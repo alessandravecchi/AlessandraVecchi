@@ -1,7 +1,16 @@
 ### Olá! Sou Alessandra Vecchi
 
-- 🔭 Estou trabalhando atualmente como Técnica de Smartphones.
-- 🌱 Estudo, Tecnologia da Informação e aprofundando em Ciências de dados.
+
+  <h3 align="center">Apaixonado por ciência e análise de dados </h3>
+
+- 🔭 Atualmente estou trabalhando com análise e visualização de dados [CONNECT CELL]
+
+- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+
+- 💬 Me pergunte sobre **SQL, Power BI, Excel e Python**
+
+- 📫Você me acha através do e-mail **alessandravecchi52@gmail.com**
+
 - 😄 Pronouns: Ela/Dela.
 
 <div style="display: inline_block"><br>
@@ -28,8 +37,8 @@
   
   ##
   
-  
-  
+  <h3 align="left">Connect with me:</h3>
+ 
   <div> 
   
   <a href="https://www.instagram.com/connectcellon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
